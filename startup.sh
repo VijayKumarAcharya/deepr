@@ -1,7 +1,6 @@
 
 #!/bin/bash
-# Install Gunicorn inside the activated virtual environment
+echo "Installing Gunicorn..."
 pip install gunicorn
 
-# Start Flask app using Gunicorn
-exec
+echo "Startingecho "Starting Flask app with Gunicorn..."
