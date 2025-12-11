@@ -4,4 +4,4 @@
 pip install gunicorn
 
 # Start Flask app using Gunicorn
-
+exec
